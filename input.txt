@@ -1,12 +1,7 @@
-Dear Sir or Madam,
-
-please find the details about my booking bellow:
-
+Please add my booking
 ===
-Trip id: "1"
-Location: "Bohemian Switzerland"
-Person: "Jan Novak"
+Trip id: "2"
+Location: "Kyiv"
+Person: "Oleksandr Husiev"
 ===
 
-Regards,
-Jan Novak
